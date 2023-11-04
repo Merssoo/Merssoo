@@ -4,9 +4,6 @@
   <p>📍 Moro em Criciuma SC</p>
 </div>
 
-  <img src="hhttps://avatars.githubusercontent.com/u/127987303?v=4" alt="img" width="200">
-</p>
-
 ## Sobre Mim
 
 Olá, eu sou Emerson, um apaixonado desenvolvedor web. Meu objetivo é criar soluções inovadoras e belas para problemas do mundo real. Tenho experiência em várias tecnologias e estou sempre disposto a aprender mais.
