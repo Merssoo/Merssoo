@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Olá, eu sou Emerson Trindade 👋</h1>
-  <p>🌟 Desenvolvedor Web em constante evolução 🚀</p>
+  <p>🌟 Development 🚀</p>
   <p>📍 Moro em Criciuma SC</p>
 </div>
 
