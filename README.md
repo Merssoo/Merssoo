@@ -10,7 +10,6 @@ Olá, eu sou Emerson, um apaixonado desenvolvedor web. Meu objetivo é criar sol
 
 - 🔭 Atualmente trabalho na Betha Sistemas (https://www.betha.com.br/).
 - 🌱 Atualmente estou aprendendo sobre serviço AWS
-- 🤔 Estou procurando ajuda com serviço AWS
 - 💬 Pergunte-me sobre minhas experiências e projetos anteriores.
 - 📫 Como me contatar: @emersonctri (https://www.instagram.com/emersonctri/).
 
